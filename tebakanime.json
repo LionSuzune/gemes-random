@@ -1,138 +1,172 @@
 [
     {
         "img": "https://telegra.ph/file/d9be424d87aa8262aa458.jpg",
-        "name": "Felix Argyle"
+        "karakter": "Felix Argyle",
+        "deskripsi": "Dia adalah karakter di anime Re Zero Dan Siapa Dia nama Karakternya."
    },
    {
         "img": "https://telegra.ph/file/887063bc7bfaae1d37bb4.jpg",
-        "name": "Sanshokuin Sumireko"
+        "karakter": "Sanshokuin Sumireko",
+        "deskripsi": "Dia Adalah karakter di anime Ore wo Suki Nano wa Omae Dake ka yo dan dia seseorang cewek dan dia siapa karakternya."
    },
    {
         "img": "https://telegra.ph/file/502c3caf52808435d2c96.jpg",
-        "name": "Ram"
+        "karakter": "Ram",
+        "deskripsi": "Dia adalah karakter Di anime Re Zero Dan Siapa Dia Nama Karakternya"
    },
    {
         "img": "https://telegra.ph/file/04e02bedb713720f55379.jpg",
-        "name": "Rem"
+        "karakter": "Rem",
+        "deskripsi": "Dia adalah karakter Di anime Re Zero Dan Siapa Dia Nama Karakternya"
    },
    {
         "img": "https://telegra.ph/file/50578d54dda10333842ac.jpg",
-        "name": "Emilia"
+        "karakter": "Emilia",
+        "deskripsi": "Dia adalah karakter Di anime Re Zero Dan Siapa Dia Nama Karakternya"
    },
    {
         "img": "https://telegra.ph/file/2661e6a6e4c8d3833b9b1.jpg",
-        "name": "Boruto Uzumaki"
+        "karakter": "Boruto Uzumaki",
+        "deskripsi": "Dia Adalah Karakter Di anime Naruto dan dia anaknya naruto, siapa dia karakternya."
    },
    {
         "img": "https://telegra.ph/file/eb10f956f2dbafb122852.jpg",
-        "name": "Naruto Uzumaki"
+        "karakter": "Naruto Uzumaki",
+        "deskripsi": "Dia adalah karakter di anime naruto dan dia siapa tuh karakter ny harus nama lengkap yo"
    },
    {
         "img": "https://telegra.ph/file/63e5109639bb4d6633830.jpg",
-        "name": "Inuyasha"
+        "karakter": "Inuyasha",
+        "deskripsi": "Dia adalah karakter di anime A Feudal Fairy Tale Isekai Siapakah Karakter Itu"
    },
    {
         "img": "https://telegra.ph/file/c80991e09dfff34575a72.jpg"
-        "name": "Kurumi Tokisaki"
+        "karakter": "Kurumi Tokisaki",
+        "deskripsi": "Dia adalah karakter di anime date a live siapakah karakternya"
    },
    {
         "img": "https://telegra.ph/file/c934326398a43b2349020.jpg"
-        "name": "Yuu Izumi"
+        "karakter": "Yuu Izumi",
+        "deskripsi": "Dia adalah karakter di anime Shikimoris not Just a cutie siapakah karakternya"
    },
    {
         "img": "https://telegra.ph/file/0a03ab3d361b043fbf290.jpg"
-        "name": "Shikimori Micchon"
+        "karakter": "Shikimori Micchon",
+        "deskripsi": "Dia adalah karakter di anime shikimoris not just a cutie siapakah karakternya harus nama lengkap"
    },
    {
         "img": "https://telegra.ph/file/25707d9ace02885a7b815.jpg"
-        "name": "Krull Tepes"
+        "karakter": "Krull Tepes",
+        "deskripsi": "Dia adalah karakter anime di owari no seraph dan dia seseorang orang vampire cewek siapakah karakternya"
    },
    {
         "img": "https://telegra.ph/file/933ac99f44a51005af3b2.jpg"
-        "name": "Rimuru Tempest"
+        "karakter": "Rimuru Tempest",
+        "deskripsi": "Dia adalah karakter di anime tensei shitara slime datta ken siapakah karakternya"
    },
    {
         "img": "https://telegra.ph/file/2b69b839f7e4a5defbce6.jpg"
-        "name": "Ken Kaneki"
+        "karakter": "Ken Kaneki",
+        "deskripsi": "Dia adalah karakter di anime tokyo ghoul siapakah karakternya"
    },
    {
         "img": "https://telegra.ph/file/d925daea2ea83e5314fdb.jpg"
-        "name": "Nakano Miku"
+        "karakter": "Nakano Miku",
+        "deskripsi": "Dia adalah karakter di anime 5toubun no hanayome siapakah karakternya"
    },
    {
         "img": "https://telegra.ph/file/a137d36e25c8e3228810f.jpg"
-        "name": "Nakano Nino"
+        "karakter": "Nakano Nino",
+        "deskripsi": "Dia adalah karakter di anime 5toubun no hanayome siapakah karakternya"
    },
    {
        "img": "https://telegra.ph/file/bce22c162b26d8049706c.jpg"
-       "name": "Nakano Itsuki"
+       "karakter": "Nakano Itsuki",
+       "deskripsi": "Dia adalah karakter di anime 5toubun no hanayome siapakah karakternya"
    },
    {
        "img": "https://telegra.ph/file/95206d43b87e2b07126a0.jpg"
-       "name": "Nakano Yotsuba"
+       "karakter": "Nakano Yotsuba",
+       "deskripsi": "Dia adalah karakter di anime 5toubun no hanayome siapakah karakternya"
   },
   {
        "img": "https://telegra.ph/file/90d9011c2d18128f06edc.jpg"
-       "name": "Nakano Ichika"
+       "karakter": "Nakano Ichika",
+       "deskripsi": "Dia adalah karakter di anime 5toubun no hanayome siapakah karakternya"
   },
   {
        "img": "https://telegra.ph/file/4f7f20b7f2c5ac6f93673.jpg"
-       "name": "Elaina"
+       "karakter": "Elaina",
+       "deskripsi": "Dia adalah karakter di anime majo to tabitabi siapakah karakternya"
   },
   {
        "img": "https://telegra.ph/file/d2f35693ca97a17e0d92b.jpg"
-       "name": "Monkey D Luffy"
+       "karakter": "Monkey D Luffy",
+       "deskripsi": "Dia adalah karakter di anime one piece siapakah karakternya"
   },
   {
        "img": "https://telegra.ph/file/9f79648793047eb0b7f20.jpg"
-       "name": "Akame"
+       "karakter": "Akame",
+       "deskripsi": "Dia adalah karakter di anime akame ga Kill siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/57b1cc28417ce2b442055.jpg"
-      "name": "Esdeath"
+      "karakter": "Esdeath",
+      "deskripsi": "Dia adalah karakter di anime akame ga Kill siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/c330f7fab60edd13e776a.jpg"
-      "name": "Tatsumi"
+      "karakter": "Tatsumi",
+      "deskripsi": "Dia adalah karakter di anime akame ga Kill siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/d2f19e1a49fac50c24623.jpg"
-      "name": "Najenda"
+      "karakter": "Najenda",
+      "deskripsi": "Dia adalah karakter di anime akame ga Kill siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/e0e5a8d7b853f0b3a1b6b.jpg"
-      "name": "Kurome"
+      "karakter": "Kurome",
+      "deskripsi": "Dia adalah karakter di anime akame ga Kill siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/b97ad86bb0cf818a86bed.jpg"
-      "name": "Leone"
+      "karakter": "Leone",
+      "deskripsi": "Dia adalah karakter di anime akame ga Kill siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/a063f6f1e84965a549e84.jpg",
-      "name": "Shiona Hiiragi"
+      "karakter": "Shiona Hiiragi",
+      "deskripsi": "Dia adalah karakter Owari no Seraph Siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/1b500e9b41bf7d2c78924.jpg",
-      "name": "Killua Zoldyck"
+      "karakter": "Killua Zoldyck",
+      "deskripsi": "Dia adalah karakter di anime Hunter X Hunter siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/809b592f83a413c78b911.jpg",
-      "name": "Ciel Phantomhive"
+      "karakter": "Ciel Phantomhive",
+      "deskripsi": "Dia adalah karakter di anime the Kuroshitsuji series atau Black Butler siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/b1fec29ade7c37daee45f.jpg",
-      "name": "Kyo Sohma"
+      "karakter": "Kyo Sohma",
+      "deskripsi": "Dia adalah karakter di anime Fruits Basket siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/df95b23bdd7acc6645a92.jpg",
-      "name": "Portgas D Ace"
+      "karakter": "Portgas D Ace",
+      "deskripsi": "Dia adalah karakter di anime one piece siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/48d97addc1b9591e6c795.jpg",
-      "name": "Oreki Houtarou"
+      "karakter": "Oreki Houtarou",
+      "deskripsi": "Dia adalah karakter di anime Hyouka dia adalah karakter utama siapakah karakternya"
   },
   {
       "img": "https://telegra.ph/file/99af9d176161b14460554.jpg",
-      "name": "Levi Ackerman"
+      "karakter": "Levi Ackerman",
+      "deskripsi": "Dia adalah karakter di anime Attack On Titan siapakah karakternya"
    }
 ]
